@@ -4,7 +4,7 @@ import javassist.ClassPool;
 import javassist.CtClass;
 import org.mozilla.javascript.DefiningClassLoader;
 import ysoserial.payloads.annotation.Authors;
-import static ysoserial.payloads.annotation.Authors.R4V3zn;
+import static ysoserial.payloads.annotation.Authors.R4V3ZN;
 
 /**
  * Title: Test
@@ -15,7 +15,7 @@ import static ysoserial.payloads.annotation.Authors.R4V3zn;
  * @author R4v3zn
  * @version 1.0.0
  */
-@Authors({R4V3zn})
+@Authors({R4V3ZN})
 public class Test {
 
     public static byte[] generate() throws Exception {
