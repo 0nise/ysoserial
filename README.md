@@ -1,6 +1,15 @@
 
 # ysoserial
 
+javassit
+
+<https://blog.csdn.net/ShuSheng0007/article/details/81269295>
+
+<https://blog.csdn.net/ShuSheng0007/article/details/81269295>
+
+<https://www.cnblogs.com/scy251147/p/11100961.html>
+
+
 [![Join the chat at https://gitter.im/frohoff/ysoserial](
     https://badges.gitter.im/frohoff/ysoserial.svg)](
     https://gitter.im/frohoff/ysoserial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
